@@ -8,3 +8,5 @@ Ce projet est une application CRUD (Create, Read, Update, Delete) en PHP permett
 - **Lire** la liste des utilisateurs.
 - **Mettre à jour** les informations d'un utilisateur existant.
 - **Supprimer** un utilisateur.
+## Licence
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
